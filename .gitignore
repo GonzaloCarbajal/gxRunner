@@ -1,0 +1,17 @@
+# Entorno virtual (muy importante excluirlo)
+.venv/
+venv/
+
+# Carpetas de compilación de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de configuración de PyCharm / VS Code
+.idea/
+.vscode/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
