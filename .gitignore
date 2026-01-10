@@ -5,7 +5,6 @@ venv/
 # Carpetas de compilación de PyInstaller
 build/
 dist/
-*.spec
 
 # Archivos de configuración de PyCharm / VS Code
 .idea/
